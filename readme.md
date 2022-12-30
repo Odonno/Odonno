@@ -47,6 +47,7 @@ I am a passionate Full 🌟 Software Developer who ❤ to make well-crafted appl
 - Jotai
 - Svelte(Kit)
 - Remix
+- Playwright
 
 ##### Backend/Database/Cloud
 
