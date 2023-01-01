@@ -56,9 +56,11 @@ I am a passionate Full 🌟 Software Developer who ❤ to make well-crafted appl
 
 ### Social networks
 
-<p align="left">
-<a href="https://www.github.com/Odonno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="background: white; border-radius: 50%;" /></a>
-<a href="https://www.linkedin.com/in/david-bottiau" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="http://www.medium.com/@dbottiau" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" style="background: white; border-radius: 50%;" /></a>
-<a href="https://www.twitter.com/dbottiau" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+[![img_contact](./img/github-light.svg)](https://www.github.com/Odonno#gh-light-mode-only)
+[![img_contact](./img/github-dark.svg)](https://www.github.com/Odonno#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/twitter-light.svg)](https://twitter.com/dbottiau#gh-light-mode-only)
+[![img_contact](./img/twitter-dark.svg)](https://twitter.com/dbottiau#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/david-bottiau/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/david-bottiau/#gh-dark-mode-only)
