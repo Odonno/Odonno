@@ -1,10 +1,41 @@
-# Hi all, I'm David ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi, I'm David ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 I am a passionate Full 🌟 Software Developer who ❤ to make well-crafted applications, my favorite languages are **TypeScript** and the .NET ecosystem (mostly **C#**). I am also a big fan of Reactive Programming like rxjs. I am currently on a journey to learn **Rust** and I really enjoy it!
 
 - 🌍  French developer :fr:
 - 🚀  Living on the edge
 - ⚡  Fan of rock music (Iron Maiden, Radiohead, Pink Floyd, etc...) :metal:
+
+<br />
+
+<span>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Odonno&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide_rank=true&hide=contribs"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Odonno&show_icons=true&hide_border=false&hide_rank=true&hide=contribs"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Odonno&show_icons=true&hide_border=false&hide_rank=true&hide=contribs" />
+  </picture>
+</span>
+<span>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=odonno&layout=compact&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=odonno&layout=compact&show_icons=true&hide_border=false"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odonno&layout=compact&show_icons=true&hide_border=false" />
+  </picture>
+</span>
+
+<br />
 
 ### Personal tech stack
 
