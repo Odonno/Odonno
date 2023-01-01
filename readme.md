@@ -18,7 +18,7 @@ I am a passionate Full 🌟 Software Developer who ❤ to make well-crafted appl
       srcset="https://github-readme-stats.vercel.app/api?username=Odonno&show_icons=true&hide_border=false&hide_rank=true&hide=contribs"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Odonno&show_icons=true&hide_border=false&hide_rank=true&hide=contribs" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Odonno&show_icons=true&hide_border=false&hide_rank=true&hide=contribs" />
   </picture>
 </span>
 <span>
@@ -31,7 +31,7 @@ I am a passionate Full 🌟 Software Developer who ❤ to make well-crafted appl
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=odonno&layout=compact&show_icons=true&hide_border=false"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odonno&layout=compact&show_icons=true&hide_border=false" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odonno&layout=compact&show_icons=true&hide_border=false" />
   </picture>
 </span>
 
