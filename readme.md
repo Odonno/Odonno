@@ -39,51 +39,17 @@ I am a passionate Full 🌟 Software Developer who ❤ to make well-crafted appl
 
 ### Personal tech stack
 
-#### Adopt - _Technologies already used for a long period and/or various projects._
-
-##### Languages
-
-- C#/.NET
-- JavaScript/TypeScript
-
-##### Frontend
-
-- HTML5/CSS3
-- Angular
-- React
-- GraphQL
-- Tailwindcss
-- Next.js
-- Redux
-- Storybook
-
-##### Backend/Database/Cloud
-
-- ASP.NET MVC
-- node.js
-- SQL Server
-- Redis
-- Firebase
-- Azure
-
-#### Trial - _Technologies used for a short period of time and with high interest to adopt in the future._
-
-##### Languages
-
-- Rust
-
-##### Frontend
-
-- Capacitor
-- Jotai
-- Svelte(Kit)
-- Remix
-- Playwright
-
-##### Backend/Database/Cloud
-
-- SurrealDB
-- Kubernetes
+<picture>
+<source 
+  srcset="https://tech-radar-og.vercel.app/api?section_names=Adopt%3BTrial&section_desc=Technologies+already+used+for+a+long+time+and%2For+various+projects.%3BTechnologies+used+for+a+short+period+of+time+and+with+high+interest.&group_names=Languages%3BFrontend%3BBackend+%2F+Data+%2F+Cloud&width=560&height=550&theme=dark&section1_group1=C%23%3BTypeScript&section1_group2=HTML5%2FCSS3%3BAngular%3BReact%3BGraphQL%3BTailwindcss%3BNext.js%3BRedux%3BStorybook&section1_group3=.NET+Core%3BNode.js%3BSQL+Server%3BRedis%3BFirebase%3BAzure&section2_group1=Rust&section2_group2=Capacitor%3BJotai%3BSvelte%3BRemix%3BPlaywright&section2_group3=SurrealDB%3BKubernetes%3BPulumi"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://tech-radar-og.vercel.app/api?section_names=Adopt%3BTrial&section_desc=Technologies+already+used+for+a+long+time+and%2For+various+projects.%3BTechnologies+used+for+a+short+period+of+time+and+with+high+interest.&group_names=Languages%3BFrontend%3BBackend+%2F+Data+%2F+Cloud&width=560&height=550&theme=light&section1_group1=C%23%3BTypeScript&section1_group2=HTML5%2FCSS3%3BAngular%3BReact%3BGraphQL%3BTailwindcss%3BNext.js%3BRedux%3BStorybook&section1_group3=.NET+Core%3BNode.js%3BSQL+Server%3BRedis%3BFirebase%3BAzure&section2_group1=Rust&section2_group2=Capacitor%3BJotai%3BSvelte%3BRemix%3BPlaywright&section2_group3=SurrealDB%3BKubernetes%3BPulumi"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://tech-radar-og.vercel.app/api?section_names=Adopt%3BTrial&section_desc=Technologies+already+used+for+a+long+time+and%2For+various+projects.%3BTechnologies+used+for+a+short+period+of+time+and+with+high+interest.&group_names=Languages%3BFrontend%3BBackend+%2F+Data+%2F+Cloud&width=560&height=550&theme=light&section1_group1=C%23%3BTypeScript&section1_group2=HTML5%2FCSS3%3BAngular%3BReact%3BGraphQL%3BTailwindcss%3BNext.js%3BRedux%3BStorybook&section1_group3=.NET+Core%3BNode.js%3BSQL+Server%3BRedis%3BFirebase%3BAzure&section2_group1=Rust&section2_group2=Capacitor%3BJotai%3BSvelte%3BRemix%3BPlaywright&section2_group3=SurrealDB%3BKubernetes%3BPulumi" />
+</picture>
 
 ### Blog
 
