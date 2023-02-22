@@ -53,6 +53,7 @@ I am a passionate Full 🌟 Software Developer who ❤ to make well-crafted appl
 
 ### Blog
 
+- [Case study on migrating a front-end application with maximum code reuse](https://medium.com/@dbottiau/case-study-on-migrating-a-front-end-application-with-maximum-code-reuse-5593d3c95de7) · Feb 22, 2023 · 5 min read
 - [The Rise of the Serverless Monoliths](https://medium.com/@dbottiau/the-rise-of-the-serverless-monoliths-63d3d2d98164) · Feb 8, 2023 · 6 min read
 - [.NET Core templates for Azure Web App](https://medium.com/@dbottiau/net-core-templates-for-azure-web-app-e79d008d6440) · Jun 8, 2020 · 3 min read
 - [A State management comparison with React hooks, mobx and recoiljs](https://medium.com/@dbottiau/a-state-management-comparison-with-react-hooks-mobx-and-recoiljs-3b7e2f4cc6c3) · Jun 1, 2020 · 4 min read
