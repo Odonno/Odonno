@@ -39,17 +39,43 @@ I am a passionate Full 🌟 Software Developer who ❤ to make well-crafted tech
 
 ### Personal tech stack
 
-<picture>
-<source 
-  srcset="https://tech-radar-og.vercel.app/api?section_names=Adopt%3BTrial&section_desc=Technologies+already+used+for+a+long+time+and%2For+various+projects.%3BTechnologies+used+for+a+short+period+of+time+and+with+high+interest.&group_names=Languages%3BFrontend%3BBackend+%2F+Data+%2F+Cloud&width=560&height=550&theme=dark&section1_group1=C%23%3BTypeScript&section1_group2=HTML5%2FCSS3%3BAngular%3BReact%3BGraphQL%3BTailwindcss%3BNext.js%3BRedux%3BStorybook&section1_group3=.NET+Core%3BNode.js%3BSQL+Server%3BRedis%3BFirebase%3BAzure&section2_group1=Rust&section2_group2=Capacitor%3BJotai%3BSvelte%3BRemix%3BPlaywright&section2_group3=SurrealDB%3BKubernetes%3BPulumi"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://tech-radar-og.vercel.app/api?section_names=Adopt%3BTrial&section_desc=Technologies+already+used+for+a+long+time+and%2For+various+projects.%3BTechnologies+used+for+a+short+period+of+time+and+with+high+interest.&group_names=Languages%3BFrontend%3BBackend+%2F+Data+%2F+Cloud&width=560&height=550&theme=light&section1_group1=C%23%3BTypeScript&section1_group2=HTML5%2FCSS3%3BAngular%3BReact%3BGraphQL%3BTailwindcss%3BNext.js%3BRedux%3BStorybook&section1_group3=.NET+Core%3BNode.js%3BSQL+Server%3BRedis%3BFirebase%3BAzure&section2_group1=Rust&section2_group2=Capacitor%3BJotai%3BSvelte%3BRemix%3BPlaywright&section2_group3=SurrealDB%3BKubernetes%3BPulumi"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://tech-radar-og.vercel.app/api?section_names=Adopt%3BTrial&section_desc=Technologies+already+used+for+a+long+time+and%2For+various+projects.%3BTechnologies+used+for+a+short+period+of+time+and+with+high+interest.&group_names=Languages%3BFrontend%3BBackend+%2F+Data+%2F+Cloud&width=560&height=550&theme=light&section1_group1=C%23%3BTypeScript&section1_group2=HTML5%2FCSS3%3BAngular%3BReact%3BGraphQL%3BTailwindcss%3BNext.js%3BRedux%3BStorybook&section1_group3=.NET+Core%3BNode.js%3BSQL+Server%3BRedis%3BFirebase%3BAzure&section2_group1=Rust&section2_group2=Capacitor%3BJotai%3BSvelte%3BRemix%3BPlaywright&section2_group3=SurrealDB%3BKubernetes%3BPulumi" />
-</picture>
+##### 🔧 Programming languages
+
+![C#](https://img.shields.io/badge/C%23-682876?style=flat&logo=.net&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+  
+##### 🎨 Frontend stack
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-%232C2052.svg?style=flat&logo=astro&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-FDDD35?style=flat&logo=paddle&logoColor=white)
+
+##### ⚙️ Backend stack
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+![MSSQL Server](https://img.shields.io/badge/MSSQL%20Server-CC2927?style=flat&logo=icloud&logoColor=white)
+![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=flat&logo=surrealdb&logoColor=white)
+
+##### 🌥️ Cloud solutions
+
+![Azure](https://img.shields.io/badge/Azure-1C87C8?style=flat&logo=icloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+
+##### 🪣 Code hosting solutions
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-1C87C8?style=flat&logo=icloud&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 ### Blog
 
