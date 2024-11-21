@@ -1,6 +1,6 @@
-# Hi, I'm David ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## Hi, I'm David ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I am a passionate Full 🌟 Software Developer who ❤ to make well-crafted applications, my favorite languages are **TypeScript** and the .NET ecosystem (mostly **C#**). I am also a big fan of Reactive Programming like rxjs. I am currently on a journey to learn **Rust** and I really enjoy it!
+I am a passionate Full 🌟 Software Developer who ❤ to make well-crafted tech Products.
 
 - 🌍  French developer :fr:
 - 🚀  Living on the edge
